@@ -2,7 +2,7 @@
   "name": "velqoza-studio",
   "version": "1.0.0",
   "private": true,
-  "description": "VELQOZA Studio development preview",
+  "description": "VELQOZA Studio: project version history, account security, credits and cloud projects, storyboard and MP4 exports",
   "type": "module",
   "scripts": {
     "start": "node server.js",
