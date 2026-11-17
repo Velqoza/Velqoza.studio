@@ -1,0 +1,15 @@
+{
+  "name": "velqoza-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VELQOZA Studio development preview",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
